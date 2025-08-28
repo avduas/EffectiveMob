@@ -110,6 +110,3 @@ Authorization: Bearer <JWT_TOKEN>
 - Dockerfile и docker-compose для быстрого старта
 
 ---
-
-## 📝 Лицензия
-MIT
